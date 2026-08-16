@@ -1,0 +1,6 @@
+1) Open Terminal from Jupyter's Lab click on " File >> New >> Terminal ".
+2) Then set the path to correct project folder using this : 
+     ( cd "C:\Users\hp\OneDrive\Desktop\Book Recommender Project" ). 
+3) Now, finally run streamlit using this command : "python -m streamlit run app.py".
+
+** Note - Remember to open Jupyter Lab : First open Jupyter then insert "localhost:8880/lab/tree". **
