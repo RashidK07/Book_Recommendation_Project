@@ -1,7 +1,3 @@
-# Book\_Recommendation\_Project
-
-
-
 📚 Book Recommendation System
 
 
@@ -16,17 +12,23 @@ The application uses "collaborative filtering" to recommend books based on user-
 
 🌐 Live Demo
 
-
-
-👉 \[Open the Book Recommendation System](https://bookrecommendationproject-ff8xgpzkazmzhta7z9xa2r.streamlit.app/)
+👉 [Open the Book Recommendation System](https://bookrecommendationproject-ff8xgpzkazmzhta7z9xa2r.streamlit.app/)
 
 
 
 📸 Application Preview
 
+🏠 Main Application
 
+[Book Recommendation System](ScreenShots/Book_Recommender_1.png)
 
-\[Book Recommendation System](screenshots/app\_screenshot.png)
+📚 Book Recommendations
+
+[Book Recommendations](ScreenShots/Book_Recommender_2.png)
+
+📊 Dataset Explorer
+
+[Dataset Explorer](ScreenShots/Book_Recommender_3.png)
 
 
 
@@ -66,21 +68,21 @@ The recommendation pipeline uses pre-computed data and similarity scores stored 
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- NumPy
+- NumPy
 
-\- Streamlit
+- Streamlit
 
-\- Pickle
+- Pickle
 
-\- Jupyter Notebook
+- Jupyter Notebook
 
-\- Git \& GitHub
+- Git & GitHub
 
-\- Git LFS
+- Git LFS
 
 
 
@@ -88,9 +90,8 @@ The recommendation pipeline uses pre-computed data and similarity scores stored 
 
 
 
-Book\_Recommendation\_Project/
+Book_Recommendation_Project
 
-│
 
 ├── Data/
 
@@ -104,11 +105,11 @@ Book\_Recommendation\_Project/
 
 ├── ScreenShots/
 
-│   └── Book\_Recommend\_1.png
+│   └── Book_Recommend_1.png
 
-│   └── Book\_Recommend\_2.png
+│   └── Book_Recommend_2.png
 
-│    └── Book\_Recommend\_3.png
+│    └── Book_Recommend_3.png
 
 │
 
@@ -120,7 +121,7 @@ Book\_Recommendation\_Project/
 
 ├── pt.pkl
 
-├── similarity\_scores.pkl
+├── similarity_scores.pkl
 
 ├── Recommender.ipynb
 
