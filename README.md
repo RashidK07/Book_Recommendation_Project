@@ -20,15 +20,15 @@ The application uses "collaborative filtering" to recommend books based on user-
 
 🏠 Main Application
 
-![Book Recommendation System](ScreenShots/Book_Recommender_1.png)
+![Book Recommendation System](ScreenShots/Book_Recommend_1.png)
 
 📚 Book Recommendations
 
-![Book Recommendations](ScreenShots/Book_Recommender_2.png)
+![Book Recommendations](ScreenShots/Book_Recommend_2.png)
 
 📊 Dataset Explorer
 
-![Dataset Explorer](ScreenShots/Book_Recommender_3.png)
+![Dataset Explorer](ScreenShots/Book_Recommend_3.png)
 
 
 
