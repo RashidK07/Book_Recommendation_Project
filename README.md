@@ -1,39 +1,36 @@
-📚 Book Recommendation System
+# 📚 Book Recommendation System
 
 
 
 A machine-learning-based "Book Recommendation System" built using Python and Streamlit.
 
-
-
 The application uses "collaborative filtering" to recommend books based on user-book rating patterns. It also provides a list of the "Top 50 popular books" from the catalog.
 
 
 
-🌐 Live Demo
+### 🌐 Live Demo
 
 👉 [Open the Book Recommendation System](https://bookrecommendationproject-ff8xgpzkazmzhta7z9xa2r.streamlit.app/)
 
+---
 
+### 📸 Application Preview
 
-📸 Application Preview
-
-🏠 Main Application
+### 🏠 Main Application
 
 ![Book Recommendation System](ScreenShots/Book_Recommend_1.png)
 
-📚 Book Recommendations
+### 📚 Book Recommendations
 
 ![Book Recommendations](ScreenShots/Book_Recommend_2.png)
 
-📊 Dataset Explorer
+### 📊 Dataset Explorer
 
 ![Dataset Explorer](ScreenShots/Book_Recommend_3.png)
 
+---
 
-
-✨ Features
-
+### ✨ Features
 
 
 📚 Top 50 Books — Displays the 50 most popular books in the catalog.
@@ -46,10 +43,9 @@ The application uses "collaborative filtering" to recommend books based on user-
 
 🌐 Interactive Web Application — Built and deployed using Streamlit.
 
+---
 
-
-🧠 How the Recommendation System Works
-
+### 🧠 How the Recommendation System Works
 
 
 The recommendation system uses "collaborative filtering".
@@ -62,9 +58,9 @@ The system analyzes user-book rating interactions to identify books that have si
 
 The recommendation pipeline uses pre-computed data and similarity scores stored in `.pkl` files.
 
+---
 
-
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 
 
@@ -84,9 +80,9 @@ The recommendation pipeline uses pre-computed data and similarity scores stored 
 
 - Git LFS
 
+---
 
-
-📂 Project Structure
+### 📂 Project Structure
 
 
 
